@@ -1,0 +1,12 @@
+{ "build": {
+    "appId": "hatsuyuki.aria2",
+    "win":{
+        "icon":"build/aria2.ico",
+        "target":"7z"
+    }
+    },
+    "scripts": {
+    "pack": "electron-builder --win --x64 --dir",
+    "dist": "electron-builder --win --x64"
+  }
+}
