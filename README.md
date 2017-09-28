@@ -5,7 +5,7 @@
 #### This project is a client base on AriaNg,
 #### use electron build
 
-![](http://i2.bvimg.com/524586/8c9da92ea4e8bbe3s.png)
+![](https://i.loli.net/2017/09/28/59cca6de4d318.png)
 
 
 
